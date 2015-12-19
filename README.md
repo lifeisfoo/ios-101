@@ -9,3 +9,4 @@ Useful links for iOS development
 - [App Icons and images size](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html)
 - [App distribution workflow](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html)
 - [Version and Build numbers](https://developer.apple.com/library/ios/technotes/tn2420/_index.html)
+- [Anatomy of an iOS Application Bundle](https://developer.apple.com/library/ios/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW15)
